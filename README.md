@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Mahesh Rajaram 👋
 
-<!--
-**maheshrajaram84-sketch/maheshrajaram84-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc Computer Science Graduate
 
-Here are some ideas to get you started:
+💻 Frontend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Python Learner
+
+⚛️ React.js Developer
+
+🗄️ MongoDB
+
+## Technical Skills
+
+- Python
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- MongoDB
+- MS Office
+
+## Projects
+
+- SMAART – Smart Indian Cooking Assistant
+- Portfolio Website (In Progress)
+- Weather App (Upcoming)
+- Student Management System (Upcoming)
+
+## Career Objective
+
+Aspiring Software Developer passionate about building modern web applications and continuously improving technical skills.
+
+## Languages
+
+- Tamil
+- English
+- Telugu (Spoken)
