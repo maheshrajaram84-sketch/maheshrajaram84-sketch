@@ -22,7 +22,7 @@
 
 ## Projects
 
-- SMAART – Smart Indian Cooking Assistant
+- SMART – Smart Indian Cooking Assistant
 - Portfolio Website (In Progress)
 - Weather App (Upcoming)
 - Student Management System (Upcoming)
